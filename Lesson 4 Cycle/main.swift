@@ -45,6 +45,19 @@ print(ESstring)
 //    print(item)
 //    }
 //}
+var a = 15
+var b = 0
 
+//while a != b {
+//    print(a)
+//    print(b)
+//    b += 1
+//}
 
+repeat{
+    print(a)
+    print(b)
+    b += 1
+
+}
 
